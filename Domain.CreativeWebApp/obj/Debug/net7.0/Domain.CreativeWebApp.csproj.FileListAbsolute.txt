@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\bin\Debug\net7.0\Domain.CreativeWebApp.deps.json
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\bin\Debug\net7.0\Domain.CreativeWebApp.dll
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\bin\Debug\net7.0\Domain.CreativeWebApp.pdb
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\Domain.CreativeWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\Domain.CreativeWebApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\Domain.CreativeWebApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\Domain.CreativeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\Domain.CreativeWebApp.dll
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\refint\Domain.CreativeWebApp.dll
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\Domain.CreativeWebApp.pdb
+C:\Users\HP\Desktop\New folder\CreativeWebApp\Domain.CreativeWebApp\obj\Debug\net7.0\ref\Domain.CreativeWebApp.dll

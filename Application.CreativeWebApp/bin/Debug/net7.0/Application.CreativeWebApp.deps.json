@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Application.CreativeWebApp/1.0.0": {
+        "dependencies": {
+          "Domain.CreativeWebApp": "1.0.0"
+        },
+        "runtime": {
+          "Application.CreativeWebApp.dll": {}
+        }
+      },
+      "Domain.CreativeWebApp/1.0.0": {
+        "runtime": {
+          "Domain.CreativeWebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.CreativeWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.CreativeWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

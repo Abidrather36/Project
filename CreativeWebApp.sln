@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{824D261F-98EF-4571-AC2A-1FA7A07AB5E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{9AD56679-503F-498F-8527-1A5A92357692}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{25C1C463-5BD8-4333-8E47-9AB0C15AFA40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{7A2D0132-643F-4DBA-9EB5-6F26225EBB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.CreativeWebApp", "Domain.CreativeWebApp\Domain.CreativeWebApp.csproj", "{2E453119-E6ED-4130-85B1-96F9DF34D3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.CreativeWebApp", "Application.CreativeWebApp\Application.CreativeWebApp.csproj", "{329040BA-656E-48ED-B30E-66844355CE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence.CreativeWebApp", "Persistence.CreativeWebApp\Persistence.CreativeWebApp.csproj", "{07F584AD-E6C6-4A42-A939-1E46D33A7883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreativeWeb.APi", "CreativeWeb.APi\CreativeWeb.APi.csproj", "{FE3C9A0F-A698-426D-974C-9A50D8580799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E453119-E6ED-4130-85B1-96F9DF34D3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E453119-E6ED-4130-85B1-96F9DF34D3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E453119-E6ED-4130-85B1-96F9DF34D3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E453119-E6ED-4130-85B1-96F9DF34D3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329040BA-656E-48ED-B30E-66844355CE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329040BA-656E-48ED-B30E-66844355CE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329040BA-656E-48ED-B30E-66844355CE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329040BA-656E-48ED-B30E-66844355CE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F584AD-E6C6-4A42-A939-1E46D33A7883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F584AD-E6C6-4A42-A939-1E46D33A7883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F584AD-E6C6-4A42-A939-1E46D33A7883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F584AD-E6C6-4A42-A939-1E46D33A7883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3C9A0F-A698-426D-974C-9A50D8580799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3C9A0F-A698-426D-974C-9A50D8580799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3C9A0F-A698-426D-974C-9A50D8580799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3C9A0F-A698-426D-974C-9A50D8580799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AD56679-503F-498F-8527-1A5A92357692} = {824D261F-98EF-4571-AC2A-1FA7A07AB5E2}
+		{25C1C463-5BD8-4333-8E47-9AB0C15AFA40} = {824D261F-98EF-4571-AC2A-1FA7A07AB5E2}
+		{7A2D0132-643F-4DBA-9EB5-6F26225EBB4C} = {824D261F-98EF-4571-AC2A-1FA7A07AB5E2}
+		{2E453119-E6ED-4130-85B1-96F9DF34D3CF} = {25C1C463-5BD8-4333-8E47-9AB0C15AFA40}
+		{329040BA-656E-48ED-B30E-66844355CE57} = {25C1C463-5BD8-4333-8E47-9AB0C15AFA40}
+		{07F584AD-E6C6-4A42-A939-1E46D33A7883} = {7A2D0132-643F-4DBA-9EB5-6F26225EBB4C}
+		{FE3C9A0F-A698-426D-974C-9A50D8580799} = {9AD56679-503F-498F-8527-1A5A92357692}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA97D24-AD71-4359-9D1E-31A54E3E2710}
+	EndGlobalSection
+EndGlobal

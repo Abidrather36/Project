@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Application.CreativeWebApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Domain.CreativeWebApp": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.CreativeWebApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.CreativeWebApp.dll": {}
+        }
+      },
+      "Domain.CreativeWebApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Domain.CreativeWebApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.CreativeWebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.CreativeWebApp/1.0.0": {
+      "type": "project",
+      "path": "../Application.CreativeWebApp/Application.CreativeWebApp.csproj",
+      "msbuildProject": "../Application.CreativeWebApp/Application.CreativeWebApp.csproj"
+    },
+    "Domain.CreativeWebApp/1.0.0": {
+      "type": "project",
+      "path": "../Domain.CreativeWebApp/Domain.CreativeWebApp.csproj",
+      "msbuildProject": "../Domain.CreativeWebApp/Domain.CreativeWebApp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Application.CreativeWebApp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\New folder\\CreativeWebApp\\Persistence.CreativeWebApp\\Persistence.CreativeWebApp.csproj",
+      "projectName": "Persistence.CreativeWebApp",
+      "projectPath": "C:\\Users\\HP\\Desktop\\New folder\\CreativeWebApp\\Persistence.CreativeWebApp\\Persistence.CreativeWebApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\New folder\\CreativeWebApp\\Persistence.CreativeWebApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\HP\\Desktop\\New folder\\CreativeWebApp\\Application.CreativeWebApp\\Application.CreativeWebApp.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\New folder\\CreativeWebApp\\Application.CreativeWebApp\\Application.CreativeWebApp.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
